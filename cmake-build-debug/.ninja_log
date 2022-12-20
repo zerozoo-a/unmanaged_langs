@@ -1,0 +1,6 @@
+# ninja log v5
+0	300	1671549942811085569	CMakeFiles/cppLab.dir/main.cpp.o	dd8cefa94dd6b3fd
+301	331	1671549942843657300	cppLab	19b47c393aff6a1
+4	29	1671550909018303617	CMakeFiles/cppLab.dir/fib.cpp.o	c1cb57fe1e8386a
+4	280	1671550909267396993	CMakeFiles/cppLab.dir/main.cpp.o	dd8cefa94dd6b3fd
+280	312	1671550909301317546	cppLab	36d3f467a0b41e40
